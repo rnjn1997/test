@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A8CE-99FA
+
+ Directory of C:\Users\prateekr\Desktop\New folder
+
+16-03-2023  17:38    <DIR>          .
+16-03-2023  17:38    <DIR>          ..
+16-03-2023  17:38                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  89,313,849,344 bytes free
